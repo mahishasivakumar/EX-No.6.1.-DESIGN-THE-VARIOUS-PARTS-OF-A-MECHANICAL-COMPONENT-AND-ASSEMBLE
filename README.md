@@ -39,16 +39,20 @@ Then we align the imported, Gear linkage model, in its respective slot of the ba
 For aligning the component onto the base, we use the align option, available in Modify>Align.
 For aligning the component onto the base, we first select the “from” coordinates then we select the “To” coordinates in the given base model. At first, the model might not align properly, so, we use the flip option to bring the component to the desired position.
 
+
 ### STEP 5: 
 We follow the same steps for aligning the components onto their respective      slots on the base component.
 
 ### Note: 
 If the components do not fit properly into the slots, it can be moved into the slot using the Move option.
 
+
 ## INPUT: 
+
 
 #### LINKAGE
 ![image](https://user-images.githubusercontent.com/113594316/199413513-8fa5b9db-0546-49d0-ad4c-230b22984d3c.png)
+
 
 #### BASE PLATE  
 ![image](https://user-images.githubusercontent.com/113594316/199413545-3b2fd515-6e27-4d28-9da3-c9ce20cb2a42.png)
@@ -63,7 +67,6 @@ If the components do not fit properly into the slots, it can be moved into the s
 ![image](https://user-images.githubusercontent.com/113594316/199413636-df0a61ce-964f-490d-9a16-e5986ebbf403.png)
 
 ## OUTPUT:
-
 ![image](https://github.com/mahishasivakumar/EX-No.6.1.-DESIGN-THE-VARIOUS-PARTS-OF-A-MECHANICAL-COMPONENT-AND-ASSEMBLE/assets/119559812/7ec4ba46-0292-446b-8ea3-4282b0af025c)
 
 
