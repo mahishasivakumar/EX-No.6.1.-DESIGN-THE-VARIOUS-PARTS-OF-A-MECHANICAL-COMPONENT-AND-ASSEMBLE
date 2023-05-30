@@ -49,10 +49,8 @@ If the components do not fit properly into the slots, it can be moved into the s
 
 ## INPUT: 
 
-
 #### LINKAGE
 ![image](https://user-images.githubusercontent.com/113594316/199413513-8fa5b9db-0546-49d0-ad4c-230b22984d3c.png)
-
 
 #### BASE PLATE  
 ![image](https://user-images.githubusercontent.com/113594316/199413545-3b2fd515-6e27-4d28-9da3-c9ce20cb2a42.png)
